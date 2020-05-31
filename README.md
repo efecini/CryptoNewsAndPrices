@@ -13,8 +13,8 @@ To make this work, you need Python3, pip and install Django on.
 * [Cryptocompare API](https://min-api.cryptocompare.com/) - API that is used to get the data about cryptocurrencies
 
 ## Screenshots
-<img src="crypto/screenshots/ss2.png" width="800">
-<img src="crypto/screenshots/ss1.png" width="800">
+<img src="crypto/screenshots/ss2.png" width="1000">
+<img src="crypto/screenshots/ss1.png" width="1000">
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
