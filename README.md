@@ -10,7 +10,7 @@ To make this work, you need Python3, pip and install Django on.
 
 * [Python](https://www.python.org/) - The Programming Language
 * [Django](https://www.djangoproject.com/) - The Web framework that is used
-* [Cryptocompare Api](https://min-api.cryptocompare.com/) - API that is used to get the data about cryptocurrencies
+* [Cryptocompare API](https://min-api.cryptocompare.com/) - API that is used to get the data about cryptocurrencies
 
 ## Contributing
 
