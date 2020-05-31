@@ -2,7 +2,7 @@
 
 This is a website which allows you to read latest cryptocurrency new and get cryptocurrency prices.
 
-### Prerequisites
+## Prerequisites
 
 To make this work, you need Python3, pip and install Django on.
 
