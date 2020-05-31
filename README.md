@@ -1,4 +1,4 @@
-# CRYPTO NEWS AND PRICES WEBSITE
+# A CRYPTO NEWS AND PRICES WEBSITE
 
 This is a website which allows you to read latest cryptocurrency new and get cryptocurrency prices.
 
