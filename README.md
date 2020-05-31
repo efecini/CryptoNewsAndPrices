@@ -18,4 +18,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Efe Cini** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Efe Cini** - *Initial work* -(https://about.me/efecini)
